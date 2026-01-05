@@ -92,6 +92,8 @@ NEXT_PUBLIC_API_URL=http://localhost:3000/api
 - `npm run build` - Build for production
 - `npm start` - Start production server
 - `npm run lint` - Run ESLint
+- `npm run format` - Run format prettierrc
+- `npm run format:check` - Run check format prettierrc
 
 ## Learn More
 
